@@ -1,1 +1,1 @@
-# Aplicativo Cronômmetro
+# Aplicativo Cronômetro
